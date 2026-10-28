@@ -1,0 +1,6 @@
+{
+  "name": "UniPin Direct Top-Up & Gaming Voucher Platform",
+  "description": "Low-price gaming top-up platform with UniPoints loyalty rewards, multi-channel login (Gmail, Phone, Facebook, Twitter, Telegram), NPR & Asian local currencies/wallets, 2-3 minute live SLA order delivery tracking, and multi-channel order completion alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
